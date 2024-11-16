@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado03</string>
+    <string name="profile_image">Imagen de perfil</string> <!-- Esta es la nueva cadena -->
+</resources>
